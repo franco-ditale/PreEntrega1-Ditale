@@ -1,4 +1,4 @@
-alert("Tienda Nike");
+alert("Inicio de sesión con Calculadora");
 let usuario = "FrancoDitale";
 let pass = "12345";
 let ingresoParaLogeados = false;
